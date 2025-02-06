@@ -39,7 +39,7 @@ Before the client can join the domain, it is important to configure the DNS sett
 <p>
 <img src="https://i.imgur.com/7smMAOm.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/XQw5PQJ.png" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="https://i.imgur.com/DkPUJNR.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/R5EC00Z.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 It is now time to make the client VM join the domain. In the System menu of the client VM, click on Rename this PC (advanced) and Change. Enter the domain and necessary credentials in order to let the client join the domain. I am logging in as Jane Doe for the purposes of the lab. It is important to note that the login credentials have to be input within the context of the domain path. The client should now be part of the domain. On the domain controller, the client should now appear in Computers in the Active Directory Users and Computers panel.
