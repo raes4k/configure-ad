@@ -55,7 +55,7 @@ Before users in the domain can use the client computer, Remote Desktop has to be
 <br />
 
 <p>
-<img src="https://i.imgur.com/HrI6BTq.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/GInXwfk.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/c7LaN48.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
